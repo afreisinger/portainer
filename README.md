@@ -1,2 +1,7 @@
 # portainer
-Llightweight service delivery platform for containerized applications
+Lightweight service delivery platform for containerized applications
+
+run
+```
+docker-compose up -d
+```
